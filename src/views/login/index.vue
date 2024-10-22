@@ -23,7 +23,7 @@
         <lang-select class="ml-2 cursor-pointer" />
       </div>
     </div>
-    <p>嘿嘿嘿</p>
+    <!-- <p>嘿嘿嘿</p> -->
     <!-- 登录表单 -->
     <div class="login-content">
       <div class="login-image">
