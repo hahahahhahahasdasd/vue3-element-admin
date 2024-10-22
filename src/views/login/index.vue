@@ -23,7 +23,11 @@
         <lang-select class="ml-2 cursor-pointer" />
       </div>
     </div>
+<<<<<<< HEAD
     <!-- <p>嘿嘿嘿</p> -->
+=======
+    <p>嘿嘿嘿</p>
+>>>>>>> parent of 11f0c91 (试试)
     <!-- 登录表单 -->
     <div class="login-content">
       <div class="login-image">
