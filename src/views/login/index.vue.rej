@@ -1,0 +1,9 @@
+diff a/src/views/login/index.vue b/src/views/login/index.vue	(rejected hunks)
+@@ -24,6 +24,7 @@
+       </div>
+     </div>
+     <p>嘿嘿嘿</p>
++    <div>阿巴巴巴</div>
+     <!-- 登录表单 -->
+     <div class="login-content">
+       <div class="login-image">
