@@ -23,7 +23,7 @@
         <lang-select class="ml-2 cursor-pointer" />
       </div>
     </div>
-    <p>嘿嘿嘿</p>
+    <!-- <p>嘿嘿嘿</p> -->
     <!-- 登录表单 -->
     <div class="login-content">
       <div class="login-image">
@@ -112,6 +112,12 @@ const submitForm = (formEl: FormInstance | undefined) => {
     }
   });
 };
+/** 设置登录凭证 */
+const setLoginCredentials = (username: string, password: string) => {
+  // loginData.value.username = username;
+  // loginData.value.password = password;
+};
+
 
 const resetForm = (formEl: FormInstance | undefined) => {
   if (!formEl) return;
